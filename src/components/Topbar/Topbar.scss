@@ -1,0 +1,26 @@
+.topbar-container {
+  display: flex;
+  background: yellow;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  nav {
+    margin: 1%;
+    a {
+      margin-left: 5px;
+      font-size: 1em;
+    }
+    a:first-child {
+      margin-left: 0;
+    }
+  }
+}
+
+.top-menu {
+  display: flex;
+  background: red;
+  a {
+  }
+}
+.social-links {
+  background: green;
+}

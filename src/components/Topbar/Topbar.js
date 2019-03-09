@@ -10,22 +10,16 @@ export default class Topbar extends Component {
       <>
         <div className="topbar">
           <div className="topbar-container">
-            <ul className="top-menu">
-              <li className="menu-li">
-                <a href="https://www.diit.edu.bd/">DIIT</a>
-              </li>
-              <li className="menu-li">
-                <a href="http://www.diu.edu.bd/">DIU</a>
-              </li>
-            </ul>
-            <ul className="social-links">
-              <li className="menu-li">
-                <a href="https://www.diit.edu.bd/">DIIT</a>
-              </li>
-              <li className="menu-li">
-                <a href="http://www.diu.edu.bd/">DIU</a>
-              </li>
-            </ul>
+            <nav className="top-menu">
+              <a href="https://www.diit.edu.bd/">DIIT</a>
+
+              <a href="http://www.diu.edu.bd/">DIU</a>
+            </nav>
+            <nav className="social-links">
+              <a href="https://www.diit.edu.bd/">DIIT</a>
+
+              <a href="http://www.diu.edu.bd/">DIU</a>
+            </nav>
           </div>
         </div>
       </>
