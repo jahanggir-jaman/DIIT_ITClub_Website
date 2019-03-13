@@ -20,15 +20,12 @@ export default class MainCarousel extends Component {
         >
           <div>
             <img src="https://via.placeholder.com/1280x720?text=Hello+From+Jaman" />
-            <p className="legend">Legend 1</p>
           </div>
           <div>
             <img src="https://via.placeholder.com/1280x720?text=Hello" />
-            <p className="legend">Legend 2</p>
           </div>
           <div>
             <img src="https://via.placeholder.com/1280x720?text=From+Jaman" />
-            <p className="legend">Legend 3</p>
           </div>
         </Carousel>
       </>
