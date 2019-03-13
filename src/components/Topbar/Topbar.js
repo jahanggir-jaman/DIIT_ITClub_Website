@@ -12,7 +12,7 @@ export default class Topbar extends Component {
           <div className="topbar-container">
             <nav className="top-menu">
               <a href="https://www.diit.edu.bd/">DIIT</a>
-              <a href="http://www.diu.edu.bd/">DIU</a>
+              <a href="https://www.diu.edu.bd/">DIU</a>
             </nav>
 
             <nav className="social-links">

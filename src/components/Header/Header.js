@@ -15,7 +15,7 @@ export default class Header extends Component {
                 <img
                   className="logo-img"
                   alt="diit-it-club-logo"
-                  src="http://diit.edu.bd/static/img/diit_logo.png"
+                  src="/img/diit-logo.png"
                 />
               </a>
             </div>

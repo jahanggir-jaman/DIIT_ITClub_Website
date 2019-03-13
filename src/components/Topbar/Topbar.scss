@@ -1,6 +1,6 @@
 .topbar-container {
   display: flex;
-  background: yellow;
+  background: #4aa52d;
   flex-wrap: nowrap;
   justify-content: space-between;
   nav {
@@ -8,6 +8,8 @@
     a {
       margin-left: 10px;
       font-size: 16px;
+      color: white;
+      text-decoration: none;
     }
     a:first-child {
       margin-left: 0;
@@ -17,10 +19,9 @@
 
 .top-menu {
   display: flex;
-  background: red;
   a {
   }
 }
 .social-links {
-  background: green;
+  display: flex;
 }
