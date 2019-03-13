@@ -20,30 +20,19 @@ export default class MainNavbar extends Component {
                 <a href="#">About &raquo;</a>
                 <ul>
                   <li>
-                    <a href="#">Web Development</a>
-                  </li>
-                  <li>
-                    <a href="#">Logo Design</a>
-                  </li>
-                  <li>
-                    <a href="#">Identity & Branding &raquo;</a>
+                    <a href="#">aaaa &raquo;</a>
                     <ul>
                       <li>
-                        <a href="#">Business Cards</a>
+                        <a href="#">aaaa </a>
                       </li>
+
                       <li>
-                        <a href="#">Brochures</a>
-                      </li>
-                      <li>
-                        <a href="#">Envelopes</a>
-                      </li>
-                      <li>
-                        <a href="#">Flyers</a>
+                        <a href="#">aaaa</a>
                       </li>
                     </ul>
                   </li>
                   <li>
-                    <a href="#">Wordpress</a>
+                    <a href="#">aaaa</a>
                   </li>
                 </ul>
               </li>
@@ -54,30 +43,24 @@ export default class MainNavbar extends Component {
                 <a href="#">Membership &raquo;</a>
                 <ul>
                   <li>
-                    <a href="#">Graphic Design</a>
+                    <a href="#">aaaa</a>
                   </li>
                   <li>
-                    <a href="#">Calligraphy</a>
+                    <a href="#">aaaa</a>
                   </li>
                   <li>
-                    <a href="#">Film &raquo;</a>
+                    <a href="#">aaa &raquo;</a>
                     <ul>
                       <li>
-                        <a href="#">John Carter</a>
+                        <a href="#">aaaa</a>
                       </li>
                       <li>
-                        <a href="#">The Avengers</a>
-                      </li>
-                      <li>
-                        <a href="#">The Amazing SpiderMan</a>
-                      </li>
-                      <li>
-                        <a href="#">Madagascar 3</a>
+                        <a href="#">aaaaa</a>
                       </li>
                     </ul>
                   </li>
                   <li>
-                    <a href="#">Graffity </a>
+                    <a href="#">aaaa </a>
                   </li>
                 </ul>
               </li>
